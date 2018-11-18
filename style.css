@@ -1,0 +1,10 @@
+li {
+  background-color: skyblue;
+  border: solid blue 1px;
+}
+
+.headline {
+  font-size: 2em;
+  font-weight: bold;
+  color: blue;
+}
